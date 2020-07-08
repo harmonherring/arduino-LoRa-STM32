@@ -8,7 +8,7 @@
 #include <SPI.h>
 
 #define LORA_DEFAULT_SS_PIN    PA4
-#define LORA_DEFAULT_RESET_PIN PC13
+#define LORA_DEFAULT_RESET_PIN PC14
 #define LORA_DEFAULT_DIO0_PIN  PA1
 
 #define PA_OUTPUT_RFO_PIN      0
